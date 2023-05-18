@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatih-celebi
-- 🌱 I’m currently learning Javascript
+- 🌱 I am currently open for roles as a Front End Developer, Back End Developer or Full Stack Developer. 
 
 
 <!---
